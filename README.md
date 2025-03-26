@@ -37,11 +37,7 @@ The primary objective of this analysis is to provide a descriptive breakdown of 
 - Run statistical analysis on the metadata to identify anomalies (such as missing values or outliers).
 
 #### **3. Data Cleaning:**
-- In this step, we clean the dataset by handling missing values, removing duplicates, and standardizing data formats.![image](https://github.com/user-attachments/assets/02df108b-0eb9-4e41-a2d1-1a9b96a0d35a)![image](https://github.com/user-attachments/assets/98f7e6ab-eee4-4a83-bdc2-a4df45ed6ead)
-
-
-- Images with missing or corrupted geospatial metadata are flagged for review or re-processing.
-
+![image](https://github.com/user-attachments/assets/02df108b-0eb9-4e41-a2d1-1a9b96a0d35a)![image](https://github.com/user-attachments/assets/98f7e6ab-eee4-4a83-bdc2-a4df45ed6ead)
 
 **Steps:**
 - Handle missing values using interpolation techniques for geospatial data (coordinates).
