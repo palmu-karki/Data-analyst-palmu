@@ -2,7 +2,7 @@
 
 ## **Phase 1**
 
-### **Project Title:** Descriptive Analysis of Ortho Photo Imagery Dataset
+### **Project Title:** Descriptive Analysis of Ortho Photo Imagery Dataset in the City of Vancouver
 
 ### **Objective:**  
 To provide a descriptive breakdown of the Ortho Photo Imagery dataset, assess its structure, quality, and key characteristics, and provide insights into how it can be used for geospatial analysis and mapping. This includes examining the dataset's properties such as image resolution, coordinates, and timestamps, and identifying any patterns or anomalies that could affect data quality and usage.
