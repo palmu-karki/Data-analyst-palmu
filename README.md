@@ -1,7 +1,5 @@
   # Projects
 
-## **Phase 1**
-
 ### **Project Title:** Descriptive Analysis of Ortho Photo Imagery Dataset in the City of Vancouver
 
 ### **Objective:**  
