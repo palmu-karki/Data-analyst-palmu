@@ -145,7 +145,6 @@ Built a **visual ETL pipeline in AWS Glue** for validation:![image](https://gith
 
 ### **Tools & Technologies:**
 | Tool | Purpose |
-|------|---------|
 | **AWS Glue ETL** | Visual ETL for evaluating data rules |
 | **Amazon S3** | Raw and cleaned data storage |
 | **AWS CloudWatch** | Monitoring job runs and performance |
